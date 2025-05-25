@@ -16,6 +16,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
+  text-underline-offset: 4px;
 }
 
 .header__links-list-item_no-bullit {
@@ -45,11 +46,14 @@
 .header__address {
   max-width: 240px;
   justify-self: end;
+  text-underline-offset: 4px;
 }
 
 .cover {
   background-image: url(/images/cover.jpg);
   position: relative;
+  background-size: 1100px 757px;
+  background-repeat: no-repeat;
 }
 
 .overlay {
@@ -221,6 +225,7 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 100%;
+  text-underline-offset: 4px;
 }
 
 .lots__look-more-link-text {
@@ -293,6 +298,7 @@
 .footer__address {
   max-width: 240px;
   justify-self: start;
+  text-underline-offset: 4px;
 }
 
 .footer__menu-list {
@@ -303,6 +309,7 @@
   font-size: 18px;
   line-height: 113%;
   margin-top: 2px;
+  text-underline-offset: 4px;
 }
 
 .footer__menu-list-item {
