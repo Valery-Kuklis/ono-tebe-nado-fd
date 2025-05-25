@@ -6,9 +6,6 @@
   background-color: #fff;
 }
 
-.header__menu {
-}
-
 .header__links-list {
   display: flex;
   gap: 33px;
@@ -20,17 +17,8 @@
   line-height: 100%;
 }
 
-.header__links-list-item {
-}
-
 .header__links-list-item_no-bullit {
   list-style: none;
-}
-
-.header__links-list-item {
-}
-
-.header__link {
 }
 
 .header__link_active {
@@ -41,9 +29,6 @@
   display: block;
   width: 136px;
   height: 104.65px;
-}
-
-.header__logo-image {
 }
 
 .address {
@@ -301,9 +286,6 @@
   justify-self: start;
 }
 
-.footer__menu {
-}
-
 .footer__menu-list {
   width: 100%;
   color: #000;
@@ -319,23 +301,11 @@
   justify-self: center;
 }
 
-.footer__menu-link {
-}
-
-.footer__menu-link_active {
-}
-
-.social {
-}
-
 .footer__social-list {
   display: flex;
   column-gap: 48px;
   list-style: none;
   margin-left: 94px;
-}
-
-.footer__social-link {
 }
 
 .social_img {
